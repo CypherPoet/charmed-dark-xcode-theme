@@ -39,7 +39,7 @@ If the folder doesn't exist, create it manually by prefacing the previous path w
 mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
-Furthermore, if you currently have Xcode open, you'll likely need to restart it to see the theme show up in the list of options in the Preferences menu.
+Furthermore, if you currently have Xcode open, you'll likely need to restart it to see the theme show up in the `Preferences` menu's list of options.
 
 
 ## Credits
