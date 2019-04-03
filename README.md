@@ -10,7 +10,7 @@ I hope you like it &mdash; but feel free to tweak as needed ✌️.
 
 ## 📸 Screenshots
 
-- _Examples courtesy of the [Swift code examples project](https://github.com/crabinvader/Swift.git), by [crabinvader](https://github.com/crabinvader), and [Troop](https://github.com/bojan/Troop), by [bojan](https://github.com/bojan)._
+- Examples courtesy of [crabinvader](https://github.com/crabinvader)'s [Swift code examples project](https://github.com/crabinvader/Swift.git) and [bojan](https://github.com/bojan)'s [Troop](https://github.com/bojan/Troop).
 - Font used: [Fira Code](https://github.com/tonsky/FiraCode) Retina, 13pt, with Relaxed Line Spacing
 
 
