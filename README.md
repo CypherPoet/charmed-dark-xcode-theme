@@ -2,7 +2,7 @@
 
 _A charming and colorful dark theme for Xcode_ 🌈.
 
-I love Dark Mode. And I love dark themes in general. But I've always found the _colors_ used by most dark themes to be downright ugly &mdash; stale, muddy, conflicting, and, in general, failing to take advantage of their darkened surroundings.
+I love [Dark Mode](https://developer.apple.com/videos/play/wwdc2018/210/). And I love dark themes in general. But I've always found the _colors_ used by most dark themes to be downright ugly &mdash; stale, muddy, conflicting, and ultimately failing to take advantage of their darkened surroundings.
 
 So the idea behind `Charmed Dark` is to create a palette of bright, charming, juicy primary colors that pop from a dark background, but still don't overwhelm and still play nicely with each other.
 
