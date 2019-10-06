@@ -6,11 +6,11 @@ I love [Dark Mode](https://developer.apple.com/videos/play/wwdc2018/210/). And I
 
 So the idea behind `Charmed Dark` is to create a palette of bright, charming, juicy primary colors that pop from a dark background, but still don't overwhelm and still play nicely with each other.
 
-I hope you like it &mdash; but feel free to tweak as needed ✌️.
+I hope you like it &mdash; but feel free to tweak things as needed ✌️.
 
 ## 📸 Screenshots
 
-- Open the files in [`/TestFiles`](./TestFiles) in Xcode to view things for yourself.
+- Open the project's [test files](./TestFiles) in Xcode to view things for yourself (though I've noticed some issues with syntax highlighting if the code isn't placed in an actual project).
 - Fonts used
   - [Fira Code](https://github.com/tonsky/FiraCode) for code
     - 13pt
