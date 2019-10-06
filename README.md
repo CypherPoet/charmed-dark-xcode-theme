@@ -10,18 +10,28 @@ I hope you like it &mdash; but feel free to tweak as needed ✌️.
 
 ## 📸 Screenshots
 
-- Examples courtesy of [crabinvader](https://github.com/crabinvader)'s [Swift code examples project](https://github.com/crabinvader/Swift.git) and [bojan](https://github.com/bojan)'s [Troop](https://github.com/bojan/Troop).
-- Font used: [Fira Code](https://github.com/tonsky/FiraCode) Retina, 13pt, with Relaxed Line Spacing
+- Open the files in [`/TestFiles`](./TestFiles) in Xcode to view things for yourself.
+- Fonts used
+  - [Fira Code](https://github.com/tonsky/FiraCode) for code
+    - 13pt
+    - Retina/Medium/Bold
+    - Relaxed Line Spacing
+  - SF Pro Text for Markup
 
 
 <div style="text-align: center;">
-  <img src="./screenshots/screenshot-1.png" width="968"/>
+  <img src="./Screenshots/swiftui-view.png" width="968"/>
   <br/>
   <br/>
-  <img src="./screenshots/screenshot-2.png" width="968"/>
+  <img src="./Screenshots/custom-logger.png" width="968"/>
   <br/>
   <br/>
-  <img src="./screenshots/screenshot-3.png" width="968"/>
+    <img src="./Screenshots/add-edit-view-controller.png" width="968"/>
+  <br/>
+  <br/>
+    <img src="./Screenshots/custom-fonts.png" width="968"/>
+  <br/>
+  <br/>
 </div>
 
 
