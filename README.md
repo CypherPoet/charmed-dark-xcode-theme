@@ -2,7 +2,7 @@
 
 _A charming and colorful dark theme for Xcode_ 🌈.
 
-I love [Dark Mode](https://developer.apple.com/videos/play/wwdc2018/210/). And I love dark themes in general. But I've always found the _colors_ used by most dark themes to be downright ugly &mdash; stale, muddy, conflicting, and ultimately failing to take advantage of their darkened surroundings.
+I love [Dark Mode](https://developer.apple.com/videos/play/wwdc2018/210/). And I love dark themes in general. But I've always found the _colors_ used by most dark themes to be downright ugly &mdash; stale, muddy, conflicting, and ultimately unbecoming of their shadowy surroundings.
 
 So the idea behind `Charmed Dark` is to create a palette of bright, charming, juicy primary colors that pop from a dark background, but still don't overwhelm and still play nicely with each other.
 
@@ -54,5 +54,5 @@ Furthermore, if you currently have Xcode open, you'll likely need to restart it 
 
 ## Credits
 
-Despite the previous jab I made at dark theme colors, this theme _was_ inspired by some notable outliers &mdash; particularly [One Dark](https://github.com/bojan/xcode-one-dark) and the outstanding [Dracula](https://github.com/dracula/dracula-theme/blob/master/README.md) theme. I use Dracula as my [theme for iTerm](https://draculatheme.com/iterm/), and wouldn't hesitate to recommend it 🧛‍.
+Despite the previous jab I made at dark mode colors, this theme _was_ inspired by some notable outliers &mdash; particularly [One Dark](https://github.com/bojan/xcode-one-dark) and the outstanding [Dracula](https://github.com/dracula/dracula-theme/blob/master/README.md) theme. I use Dracula as my [theme for iTerm](https://draculatheme.com/iterm/), and wouldn't hesitate to recommend it 🧛‍.
 
