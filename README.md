@@ -2,34 +2,41 @@
 
 _A charming and colorful dark theme for Xcode_ 🌈.
 
-I love [Dark Mode](https://developer.apple.com/videos/play/wwdc2018/210/). And I love dark themes in general. But I've always found the _colors_ used by most dark themes to be downright ugly &mdash; stale, muddy, conflicting, and ultimately unbecoming of their shady surroundings.
+[I love](https://twitter.com/cypher_poet/status/1327703681341530113) [Dark Mode](https://developer.apple.com/videos/play/wwdc2018/210/). And code-editing themes are no exception. But I've always found the _colors_ used by most dark themes to be downright ugly &mdash; stale, muddy, conflicting, and ultimately failing to take advantage of their shadier surroundings.
 
-So the idea behind `Charmed Dark` is to create a palette of bright, charming, juicy primary colors that pop from a dark background, but still don't overwhelm and still play nicely with each other.
+So the idea behind `Charmed Dark` is to create a palette of bright, charming, juicy primary colors that pop from a dark background, please the eye, but still don't overwhelm and still play nicely with each other.
 
 I hope you like it &mdash; but feel free to tweak things as needed ✌️.
 
 ## 📸 Screenshots
 
-- Open the project's [test files](./TestFiles) in Xcode to view things for yourself (though I've noticed some issues with syntax highlighting if the code isn't placed in an actual project).
-- Fonts used
-  - [Fira Code](https://github.com/tonsky/FiraCode) for code
-    - 13pt
-    - Retina/Medium/Bold
-    - Relaxed Line Spacing
-  - SF Pro Text for Markup
+<details>
+  <summary>Tip</summary>
+  </br>
+
+  Depending on your monitor settings, GitHub's image resolution capabilities, and, likely, my own screen capturing limitations, these images might not be showing in their "true" resolution. Try following the [installation instructions](#Installation) below and booting up a new Xcode project so see things for yourself.
+</details>
+
+### Fonts Used
+
+- [Fira Code](https://github.com/tonsky/FiraCode) for code
+  - 14pt
+  - Retina/Medium/Bold
+  - Relaxed Line Spacing
+- SF Pro Text for Markup
 
 
 <div style="text-align: center;">
-  <img src="./Screenshots/swiftui-view.png" width="968"/>
+  <img src="./Screenshots/switch-statement.png" width="700"/>
   <br/>
   <br/>
-  <img src="./Screenshots/custom-logger.png" width="968"/>
+  <img src="./Screenshots/swiftui-tab-view.png" width="700"/>
   <br/>
   <br/>
-    <img src="./Screenshots/add-edit-view-controller.png" width="968"/>
+    <img src="./Screenshots/swiftui-app.png" width="700"/>
   <br/>
   <br/>
-    <img src="./Screenshots/custom-fonts.png" width="968"/>
+    <img src="./Screenshots/swiftui-view-with-previews.png" width="700"/>
   <br/>
   <br/>
 </div>
@@ -49,10 +56,10 @@ If the folder doesn't exist, create it manually by prefacing the previous path w
 mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
-Furthermore, if you currently have Xcode open, you'll likely need to restart it to see the theme show up in the `Preferences` menu's list of options.
+From there, open up Xcode and head into `Preferences` > `Themes`, and select `Charmed Dark` from the list of theme options. (If you currently have Xcode open, you'll likely need to restart it before seeing Charmed Dark appear in the menu).
 
 
 ## Credits
 
-Despite the previous jab I made at dark mode colors, this theme _was_ inspired by some notable outliers &mdash; particularly [One Dark](https://github.com/bojan/xcode-one-dark) and the outstanding [Dracula](https://github.com/dracula/dracula-theme/blob/master/README.md) theme. I use Dracula as my [theme for iTerm](https://draculatheme.com/iterm/), and wouldn't hesitate to recommend it 🧛‍.
+Despite the previous jab I made at most dark themes, `Charmed Dark` _was_ inspired by some notable outliers &mdash; particularly [One Dark](https://github.com/bojan/xcode-one-dark) and the outstanding [Dracula](https://github.com/dracula/dracula-theme/blob/master/README.md) theme. I use Dracula as my [theme for iTerm](https://draculatheme.com/iterm/), and wouldn't hesitate to recommend it 🧛‍.
 
