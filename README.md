@@ -44,17 +44,19 @@ I hope you like it &mdash; but feel free to tweak things as needed ✌️.
 
 ## Installation
 
-Simply download this project, then copy the [Charmed Dark.xccolortheme](./Charmed%20Dark.xccolortheme) file to:
 
-```sh
-~/Library/Developer/Xcode/UserData/FontAndColorThemes
-```
-
-If the folder doesn't exist, create it manually by prefacing the previous path with `mkdir`:
+If you haven't already done so, create a `FontAndColorThemes` directory inside of Xcode's `UserData` folder:
 
 ```sh
 mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
+
+Then simply download this project and copy the [Charmed Dark.xccolortheme](./Charmed%20Dark.xccolortheme) file to the `FontAndColorThemes` directory:
+
+```sh
+cp Charmed\ Dark.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+```
+
 
 From there, open up Xcode and head into `Preferences` > `Themes`, and select `Charmed Dark` from the list of theme options. (If you currently have Xcode open, you'll likely need to restart it before seeing Charmed Dark appear in the menu).
 
