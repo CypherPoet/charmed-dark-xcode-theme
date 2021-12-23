@@ -69,146 +69,61 @@
 	<key>DVTMarkupTextStrongColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNS-Bold - 13.0</string>
-	<key>DVTScrollbarMarkerAnalyzerColor</key>
-	<string>0.403922 0.372549 1 1</string>
-	<key>DVTScrollbarMarkerBreakpointColor</key>
-	<string>0.290196 0.290196 0.968627 1</string>
-	<key>DVTScrollbarMarkerDiffColor</key>
-	<string>0.556863 0.556863 0.556863 1</string>
-	<key>DVTScrollbarMarkerDiffConflictColor</key>
-	<string>0.968627 0.290196 0.290196 1</string>
-	<key>DVTScrollbarMarkerErrorColor</key>
-	<string>0.968627 0.290196 0.290196 1</string>
-	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
-	<string>0.643137 0.509804 1 1</string>
-	<key>DVTScrollbarMarkerWarningColor</key>
-	<string>0.937255 0.717647 0.34902 1</string>
-	<key>DVTSourceTextBackground</key>
-	<string>0.0670413 0.0842817 0.114612 1</string>
-	<key>DVTSourceTextBlockDimBackgroundColor</key>
-	<string>0.5 0.5 0.5 1</string>
-	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0 0 0 0.313725</string>
-	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 0.8 0 1</string>
-	<key>DVTSourceTextInvisiblesColor</key>
-	<string>0.305882 0.333333 0.47451 1</string>
-	<key>DVTSourceTextSelectionColor</key>
-	<string>0.443137 0.486275 0.705882 0.313725</string>
-	<key>DVTSourceTextSyntaxColors</key>
-	<dict>
-		<key>xcode.syntax.attribute</key>
-		<string>0.509804 0.666667 1 1</string>
-		<key>xcode.syntax.character</key>
-		<string>0.304546 0.906867 0.99953 1</string>
-		<key>xcode.syntax.comment</key>
-		<string>0.281363 0.30219 0.489176 1</string>
-		<key>xcode.syntax.comment.doc</key>
-		<string>0.281363 0.30219 0.489176 1</string>
-		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.344496 0.36478 0.649044 1</string>
-		<key>xcode.syntax.declaration.other</key>
-		<string>0.77133 0.908603 0.809874 1</string>
-		<key>xcode.syntax.declaration.type</key>
-		<string>0.77133 0.908603 0.809874 1</string>
-		<key>xcode.syntax.identifier.class</key>
-		<string>0.989266 0.418232 0.0338797 1</string>
-		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.989266 0.418232 0.0338797 1</string>
-		<key>xcode.syntax.identifier.constant</key>
-		<string>1 0.0285367 0.295764 1</string>
-		<key>xcode.syntax.identifier.constant.system</key>
-		<string>1 0.0285367 0.295764 1</string>
-		<key>xcode.syntax.identifier.function</key>
-		<string>0.509804 0.666667 1 1</string>
-		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.509804 0.666667 1 1</string>
-		<key>xcode.syntax.identifier.macro</key>
-		<string>0.272541 1 0.411027 1</string>
-		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.272541 1 0.411027 1</string>
-		<key>xcode.syntax.identifier.type</key>
-		<string>0.989266 0.418232 0.0338797 1</string>
-		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.989266 0.418232 0.0338797 1</string>
-		<key>xcode.syntax.identifier.variable</key>
-		<string>0.923668 0.989438 0.413758 1</string>
-		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.923668 0.989438 0.413758 1</string>
-		<key>xcode.syntax.keyword</key>
-		<string>0.692374 0.460641 0.861021 1</string>
-		<key>xcode.syntax.mark</key>
-		<string>0.344496 0.36478 0.649044 1</string>
-		<key>xcode.syntax.markup.code</key>
-		<string>0.692374 0.460641 0.861021 1</string>
-		<key>xcode.syntax.number</key>
-		<string>1 0.0285367 0.295764 1</string>
-		<key>xcode.syntax.plain</key>
-		<string>0.77133 0.908603 0.809874 1</string>
-		<key>xcode.syntax.preprocessor</key>
-		<string>0.272541 1 0.411027 1</string>
-		<key>xcode.syntax.string</key>
-		<string>0.304546 0.906867 0.99953 1</string>
-		<key>xcode.syntax.url</key>
-		<string>0.304546 0.906867 0.99953 1</string>
-	</dict>
-	<key>DVTSourceTextSyntaxFonts</key>
-	<dict>
-		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.character</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.comment.doc</key>
-		<string>SFProText-Medium - 14.0</string>
-		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFProText-Bold - 14.0</string>
-		<key>xcode.syntax.declaration.other</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.declaration.type</key>
-		<string>FiraCode-Bold - 14.0</string>
-		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.keyword</key>
-		<string>FiraCode-Bold - 14.0</string>
-		<key>xcode.syntax.mark</key>
-		<string>SFProText-Bold - 14.0</string>
-		<key>xcode.syntax.markup.code</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.number</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.string</key>
-		<string>FiraCode-Retina - 14.0</string>
-		<key>xcode.syntax.url</key>
-		<string>FiraCode-Retina - 14.0</string>
-	</dict>
-</dict>
+    <key>DVTSourceTextSyntaxFonts</key>
+    <dict>
+      <key>xcode.syntax.attribute</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.character</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.comment</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.comment.doc</key>
+      <string>SFProText-Medium - 15.0</string>
+      <key>xcode.syntax.comment.doc.keyword</key>
+      <string>SFProText-Bold - 15.0</string>
+      <key>xcode.syntax.declaration.other</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.declaration.type</key>
+      <string>FiraCode-Bold - 15.0</string>
+      <key>xcode.syntax.identifier.class</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.class.system</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.constant</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.constant.system</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.function</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.function.system</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.macro</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.macro.system</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.type</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.type.system</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.variable</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.identifier.variable.system</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.keyword</key>
+      <string>FiraCode-Bold - 15.0</string>
+      <key>xcode.syntax.mark</key>
+      <string>SFProText-Bold - 15.0</string>
+      <key>xcode.syntax.markup.code</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.number</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.plain</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.preprocessor</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.string</key>
+      <string>FiraCode-Retina - 15.0</string>
+      <key>xcode.syntax.url</key>
+      <string>FiraCode-Retina - 15.0</string>
+    </dict>
 </plist>
