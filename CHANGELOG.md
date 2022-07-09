@@ -1,4 +1,14 @@
-# Changelog
+# ♻️ Changelog
+
+## Version 3.1 - July 9, 2022
+
+- Add Support for Swift Regex
+  - Use `#4EE7FF` for `Regex Literals`.
+  - Use `#FA54BB` for `Regex Literal Operators`.
+  - Use `#FF074B` for `Regex Literal Numbers`.
+  - Use `#FF074B` for `Regex Literal Capture Names`.
+  - Use `#FF074B` for `Regex Literal Character Class Names`.
+- Use `#FA54BB` for `Attributes` to give Markdown a bit more color.
 
 ## Version 3 - December 29, 2020
 
@@ -13,4 +23,4 @@
 - Embolden "Mark" keywords.
 - Use `SF Pro Text` for comments and "Mark"s.
 - Use a bright green color for compiler flags.
-    + Not too garish &mdash; just slightly-more-conspicuous than the other primary colors in the palette 🙂.
+  - Not too garish &mdash; just slightly-more-conspicuous than the other primary colors in the palette 🙂.
