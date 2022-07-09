@@ -14,17 +14,9 @@ I hope you like it &mdash; but feel free to tweak things as needed ✌️.
   <summary>Tip</summary>
   </br>
 
-  Depending on your monitor settings, GitHub's image resolution capabilities, and, likely, my own screen capturing limitations, these images might not be showing in their "true" resolution. Try following the [installation instructions](#Installation) below and booting up a new Xcode project so see things for yourself.
+Depending on your monitor settings, GitHub's image resolution capabilities, and, likely, my own screen capturing limitations, these images might not be showing in their "true" resolution. Try following the [installation instructions](#Installation) below and booting up a new Xcode project so see things for yourself.
+
 </details>
-
-### Fonts Used
-
-- [Fira Code](https://github.com/tonsky/FiraCode) for code
-  - 14pt
-  - Retina/Medium/Bold
-  - Relaxed Line Spacing
-- SF Pro Text for Markup
-
 
 <div style="text-align: center;">
   <img src="./Screenshots/switch-statement.png" width="700"/>
@@ -41,9 +33,30 @@ I hope you like it &mdash; but feel free to tweak things as needed ✌️.
   <br/>
 </div>
 
+## ✍️ Typography
 
-## Installation
+### Main Fonts Used
 
+#### Source Code
+
+- [Fira Code](https://github.com/tonsky/FiraCode)
+  - 15 pt
+  - Retina/Medium/Bold
+  - Relaxed Line Spacing
+
+#### Markup & Markdown
+
+- SF Pro Text
+- 15 pt
+- Medium/Bold
+
+#### Console & Debugger Text
+
+- SF Mono
+- Regular
+- 13 pt
+
+## ⬇️ Installation
 
 If you haven't already done so, create a `FontAndColorThemes` directory inside of Xcode's `UserData` folder:
 
@@ -57,11 +70,8 @@ Then simply download this project and copy the [Charmed Dark.xccolortheme](./Cha
 cp Charmed\ Dark.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```
 
-
 From there, open up Xcode and head into `Preferences` > `Themes`, and select `Charmed Dark` from the list of theme options. (If you currently have Xcode open, you'll likely need to restart it before seeing Charmed Dark appear in the menu).
 
-
-## Credits
+## 🙏 Credits
 
 Despite the previous jab I made at most dark themes, `Charmed Dark` _was_ inspired by some notable outliers &mdash; particularly [One Dark](https://github.com/bojan/xcode-one-dark) and the outstanding [Dracula](https://github.com/dracula/dracula-theme/blob/master/README.md) theme. I use Dracula as my [theme for iTerm](https://draculatheme.com/iterm/), and wouldn't hesitate to recommend it 🧛‍.
-
