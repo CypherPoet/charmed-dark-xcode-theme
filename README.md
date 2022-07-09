@@ -21,15 +21,27 @@ Depending on your monitor settings, GitHub's image resolution capabilities, and,
 <div style="text-align: center;">
   <img src="./Screenshots/switch-statement.png" width="700"/>
   <br/>
+
   <br/>
   <img src="./Screenshots/swiftui-tab-view.png" width="700"/>
   <br/>
+
   <br/>
     <img src="./Screenshots/swiftui-app.png" width="700"/>
   <br/>
+
   <br/>
     <img src="./Screenshots/swiftui-view-with-previews.png" width="700"/>
   <br/>
+
+  <br/>
+    <img src="./Screenshots/regex-literals.png" width="700"/>
+  <br/>
+
+  <br/>
+    <img src="./Screenshots/markdown.png" width="700"/>
+  <br/>
+
   <br/>
 </div>
 
