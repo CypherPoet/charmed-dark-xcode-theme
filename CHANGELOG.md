@@ -1,5 +1,10 @@
 # ♻️ Changelog
 
+## Version 4.0 - October 30, 2022
+
+- Change coloring for Markdown Headings and code-formatted keywords.
+- Minor coloring tweaks for comments and type declarations.
+
 ## Version 3.1 - July 9, 2022
 
 - Add Support for Swift Regex

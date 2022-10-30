@@ -18,32 +18,29 @@ Depending on your monitor settings, GitHub's image resolution capabilities, and,
 
 </details>
 
-<div style="text-align: center;">
-  <img src="./Screenshots/switch-statement.png" width="700"/>
-  <br/>
+### Switch Statements
 
-  <br/>
-  <img src="./Screenshots/swiftui-tab-view.png" width="700"/>
-  <br/>
+![Switch Statements](./Screenshots/switch-statement.png)
 
-  <br/>
-    <img src="./Screenshots/swiftui-app.png" width="700"/>
-  <br/>
+### SwiftUI Tab View
 
-  <br/>
-    <img src="./Screenshots/swiftui-view-with-previews.png" width="700"/>
-  <br/>
+![SwiftUI Tab View](./Screenshots/swiftui-tab-view.png)
 
-  <br/>
-    <img src="./Screenshots/regex-literals.png" width="700"/>
-  <br/>
+### SwiftUI App
 
-  <br/>
-    <img src="./Screenshots/markdown.png" width="700"/>
-  <br/>
+![SwiftUI App](./Screenshots/swiftui-app.png)
 
-  <br/>
-</div>
+### SwiftUI View With Previews
+
+![SwiftUI View With Previews](./Screenshots/swiftui-view-with-previews.png)
+
+### Regex Literal
+
+![Regex Literal](./Screenshots/regex-literals.png)
+
+### Markdown
+
+![Markdown](./Screenshots/markdown.png)
 
 ## ✍️ Typography
 
