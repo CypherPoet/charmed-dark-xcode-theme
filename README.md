@@ -84,3 +84,7 @@ From there, open up Xcode and head into `Preferences` > `Themes`, and select `Ch
 ## 🙏 Credits
 
 Despite the previous jab I made at most dark themes, `Charmed Dark` _was_ inspired by some notable outliers &mdash; particularly [One Dark](https://github.com/bojan/xcode-one-dark) and the outstanding [Dracula](https://github.com/dracula/dracula-theme/blob/master/README.md) theme. I use Dracula as my [theme for iTerm](https://draculatheme.com/iterm/), and wouldn't hesitate to recommend it 🧛‍.
+
+## ❤️ Support
+
+If you'd like to make a donation as a token of thanks, a zip file with this project's latest release can also be purchased on [my Gumroad page](https://cypherpoet.gumroad.com/l/charmed-dark-xcode-theme).
